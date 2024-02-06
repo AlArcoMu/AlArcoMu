@@ -45,7 +45,7 @@ public class Main {
     }
 }
 
-Si quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en LinkedIn y Twitter.
+Si quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/albertoarcones/).
 
 ¡Gracias por visitar mi perfil!
 
