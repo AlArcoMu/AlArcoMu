@@ -26,6 +26,8 @@ Sobre mí
     <li>Desarrollo web</li>
     <li>Bases de datos</li>
     <li>Git y control de versiones</li>
+    <li>Power BI</li>
+    <li>Análisis de datos</li>
 </ul>
 Si quieres ponerte en contacto conmigo, ¡no dudes en hacerlo! Puedes encontrarme en <a href="https://www.linkedin.com/in/albertoarcones/">LinkedIn</a>
 
